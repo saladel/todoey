@@ -53,9 +53,6 @@ https://github.com/user-attachments/assets/cbd64594-31e3-46f9-80b5-3fa79e6698fc
 ## Android APK
 [Download APK (22M)](https://drive.google.com/file/d/1FRkz6A4LfP7FCrJaZeok2iCYaaCPJ4oj/view?usp=share_link)
 
-## iOS IPA
-[Download IPA (52M)](https://drive.google.com/file/d/1p1RcFZkCtBJjaSiL-lF3JQKnoaiQX6qY/view?usp=sharing)
-
 #
 
 Feel free to reach out to me on [Linkedin](https://bit.ly/AdewaleSanusi) or [Twitter](https://twitter.com/A_4_Ade) if you have any questions or
