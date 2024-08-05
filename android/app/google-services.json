@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554382678757",
+    "project_id": "todoey-ea7c5",
+    "storage_bucket": "todoey-ea7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554382678757:android:536b4842fa621bb6dc520c",
+        "android_client_info": {
+          "package_name": "com.saladel.todoos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcwucYBv6yRfdaePfkYXWS7yk-4noyLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
